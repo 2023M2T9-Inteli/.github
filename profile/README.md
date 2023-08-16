@@ -15,17 +15,17 @@
 
 ## :computer: Lógica para predição com inteligência artificial:
 
-- Grupo 1 - WiseMeta - ...:
-  - Link do repositório: https://github.com/2023M2T9-inteli/grupo1
+- Grupo 1 - WiseMeta - PanPedia:
+  - Link do repositório: https://github.com/2023M2T9-inteli/projeto1
 
-- Grupo 2 - PanPera - ....:
-  - Link do repositório: https://github.com/2023M2T9-inteli/grupo2
+- Grupo 2 - PanPera - Panpedia:
+  - Link do repositório: https://github.com/2023M2T9-inteli/projeto2
   
-- Grupo 3 - Agilify - ...:
-  - Link do repositório: https://github.com/2023M2T9-inteli/grupo3
+- Grupo 3 - Agilify - Project Athena:
+  - Link do repositório: https://github.com/2023M2T9-inteli/projeto3
   
-- Grupo 4 - Datails - ...: 
-  - Link do repositório: https://github.com/2023M2T9-inteli/grupo4
+- Grupo 4 - Datails - Pangeia: 
+  - Link do repositório: https://github.com/2023M2T9-inteli/projeto4
   
-- Grupo 5 - Synapse - ....:
-  - Link do repositório: https://github.com/2023M2T9-inteli/grupo5
+- Grupo 5 - Synapse - Panpedia:
+  - Link do repositório: https://github.com/2023M2T9-inteli/projeto5
