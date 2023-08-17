@@ -13,7 +13,7 @@
 
 ...
 
-## :computer: Lógica para predição com inteligência artificial:
+## :computer: Aplicação Web:
 
 - Grupo 1 - WiseMeta - PanPedia:
   - Link do repositório: https://github.com/2023M2T9-inteli/projeto1
