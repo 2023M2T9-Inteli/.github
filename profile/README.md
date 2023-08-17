@@ -2,16 +2,16 @@
 
 ## :mag: O problema:
 
-...
+Usabilidade e limitação na evolução de funcionalidades mínimas para o Catálogo de Dados.
 
 ## :dart: O objetivo:
 
-...
+Criação de uma aplicação WEB do catálogo de dados do Banco Pan que seja colaborativa com as áreas de negócios.
 
 
 ## :jigsaw: O público-alvo:
 
-...
+Colaboradores internos do banco.
 
 ## :computer: Aplicação Web:
 
