@@ -18,7 +18,7 @@ Colaboradores internos do banco.
 - Grupo 1 - WiseMeta - PanPedia:
   - Link do repositório: https://github.com/2023M2T9-inteli/projeto1
 
-- Grupo 2 - PanPera - Panpedia:
+- Grupo 2 - Pan Tera - Panpedia:
   - Link do repositório: https://github.com/2023M2T9-inteli/projeto2
   
 - Grupo 3 - Agilify - Project Athena:
